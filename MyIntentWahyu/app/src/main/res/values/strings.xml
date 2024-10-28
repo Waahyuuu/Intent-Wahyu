@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Intent Wahyu</string>
+    <!-- intent eksplisit -->
+    <string name="move_activity">Pindah Aktifitas</string>
+    <string name="this_is_move_activity">Ini Hasil Pindah Aktifitas</string>
+    <string name="back_activity">Aktifitas Kembali</string>
+    <!-- intent implisit -->
+    <string name="dial_number">Aktifitas Menelpon</string>
+</resources>
